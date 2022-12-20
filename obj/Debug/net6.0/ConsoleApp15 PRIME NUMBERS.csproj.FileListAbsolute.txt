@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\bin\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.exe
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\bin\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.deps.json
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\bin\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\bin\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.dll
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\bin\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.dll
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\refint\ConsoleApp15 PRIME NUMBERS.dll
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ConsoleApp15 PRIME NUMBERS.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConsoleApp15 PRIME NUMBERS\ConsoleApp15 PRIME NUMBERS\obj\Debug\net6.0\ref\ConsoleApp15 PRIME NUMBERS.dll
